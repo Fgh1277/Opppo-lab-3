@@ -1,0 +1,4 @@
+ADD tree, Oak, 15
+ADD cactus, Gaga, 11
+ADD shrub, Bluberry, April
+PRINT
